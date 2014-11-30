@@ -1,0 +1,13 @@
+1 - 39 : float
+40 - 52 : raise arms
+53 - 91 : float with arms raised
+92 - 104 lower arms
+105 - 152 : land
+153 - 180 : hide face
+181 - 204 : show face
+205 - 252 : take off
+253 - 330 : search ?
+331 - 391 : smash
+392 - 416 : spin arms
+417 - 424 : take hit ?
+425 - 464 : spin
